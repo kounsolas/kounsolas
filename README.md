@@ -34,4 +34,7 @@ I work on machine learning, data analysis and software engineering projects.
 ![Stats](https://github-readme-stats.vercel.app/api?username=kounsolas&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kounsolas&layout=compact&theme=dark)
 
-![Snake](https://raw.githubusercontent.com/kounsolas/kounsolas/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kounsolas/kounsolas/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kounsolas/kounsolas/output/github-contribution-grid-snake.svg">
+</picture>
