@@ -30,11 +30,8 @@ I work on machine learning, data analysis and software engineering projects.
 - [**Fuzzy-Systems-Project**](https://github.com/kounsolas/Fuzzy-Systems-Project): fuzzy controllers and TSK models in MATLAB/Simulink
 - [**SE2_Project**](https://github.com/kounsolas/SE2_Project): Node.js REST API with CI/CD, tests and Docker
 
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kounsolas&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kounsolas&layout=compact&theme=dark)
-
+## 🔥 Contribution streak
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kounsolas/kounsolas/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kounsolas/kounsolas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kounsolas&theme=dark">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=kounsolas">
 </picture>
